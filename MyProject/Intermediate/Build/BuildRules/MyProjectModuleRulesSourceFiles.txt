@@ -1,0 +1,3 @@
+C:\Data\GIT\UnrealEscapeRoom\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Data\GIT\UnrealEscapeRoom\MyProject\Source\MyProject.Target.cs
+C:\Data\GIT\UnrealEscapeRoom\MyProject\Source\MyProjectEditor.Target.cs
